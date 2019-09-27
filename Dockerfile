@@ -1,1 +1,1 @@
-FROM huamaolin/ansible-tower:3.5.3
+FROM huamaolin/ansible-tower:latest
